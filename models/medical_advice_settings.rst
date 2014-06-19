@@ -1,0 +1,4 @@
+MedicalAdviceSettings
+=====================
+
+TODO: Write this

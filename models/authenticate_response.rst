@@ -1,0 +1,4 @@
+AuthenticateResponse
+====================
+
+TODO: Write this
