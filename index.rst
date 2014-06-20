@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Node.js Epic MyChart Client's documentation!
-=======================================================
+Gocodo Epic MyChart Client documentation
+========================================
 
 TODO: Write this
 
