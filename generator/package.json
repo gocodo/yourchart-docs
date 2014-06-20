@@ -1,0 +1,12 @@
+{
+  "name": "epic-client-docs-generator",
+  "version": "0.1.1",
+  "description": "Epic MyChart client Docs generator",
+  "license": "epic-client",
+  "private": true,
+  "dependencies": {
+    "epic-client": "git+ssh://git@github.com:gocodo/node-epic-client.git",
+    "mustache": "^0.8.2",
+    "cli-table": "^0.3.0"
+  }
+}

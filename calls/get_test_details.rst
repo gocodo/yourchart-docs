@@ -1,4 +1,0 @@
-GetTestDetails
-==============
-
-TODO: Write this

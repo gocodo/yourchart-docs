@@ -1,4 +1,0 @@
-AttachmentSettings
-==================
-
-TODO: Write this

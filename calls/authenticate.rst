@@ -1,7 +1,7 @@
 Authenticate
-============
+=========================
 
-Used to authenticate a MyChart username and password
+TODO: Write this
 
 | **Request Model**: :doc:`../models/authenticate`
 | **Response Model**: :doc:`../models/authenticate_response`

@@ -12,7 +12,7 @@ TODO: Write this
    models/allergy
    models/appointment
    models/appointment_list_result
-   models/attachment_settings
+   models/attachement_settings
    models/audit_log
    models/authenticate
    models/authenticate_response

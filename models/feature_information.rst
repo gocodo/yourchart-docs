@@ -1,14 +1,18 @@
 FeatureInformation
-==================
+=========================
 
-=====================  ==========================  ====================
-Property               Type                        Description
-=====================  ==========================  ====================
-AllowRxRefill          Boolean                     *unknown*
-DisabledFeatures       Array of Strings            Epic MyChart disabled features list. *possible values and definitions of these values are currently unknown*
-EnabledFeatures        Array of Strings            Epic MyChart enabled features list. *possible values and definitions of these values are currently unknown*
-=====================  ==========================  ====================
+TOOD: Write description
 
-**Used in models**:
+=================  ================  ==========================  
+Property           Type              Description                 
+=================  ================  ==========================  
+AllowRxRefill      Boolean           *TODO: Write description*   
+DisabledFeatures   Array of String   *TODO: Write description*   
+EnabledFeatures    Array of String   *TODO: Write description*   
+=================  ================  ==========================  
 
-* :doc:`authenticate_response`
+
+**Used in models**
+
+* :doc:`../models/authenticate_response`
+

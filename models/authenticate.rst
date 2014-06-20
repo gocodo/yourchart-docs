@@ -1,16 +1,17 @@
 Authenticate
-============
+=========================
 
-MyChart Credentials
+TOOD: Write description
 
-========  ======  ================
-Property  Type    Description
-========  ======  ================
-Username  String  MyChart Username
-Password  String  MyChart Password
-========  ======  ================
+=========  =======  ==========================  
+Property   Type     Description                 
+=========  =======  ==========================  
+Username   String   *TODO: Write description*   
+Password   String   *TODO: Write description*   
+=========  =======  ==========================  
 
 
-**Used in calls**:
+**Used in calls**
 
 * :doc:`../calls/authenticate`
+

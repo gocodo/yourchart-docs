@@ -1,4 +1,0 @@
-GetEncounters
-=============
-
-TODO: Write this

@@ -1,1 +1,3 @@
 _build
+generator/build
+generator/node_modules

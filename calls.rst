@@ -10,9 +10,9 @@ on creating a client and using the given calls, see the client specific document
    calls/authenticate
    calls/get_account_details
    calls/get_bills_and_statements
-   calls/get_encounters
+   calls/get_encounter
    calls/get_message_detail
-   calls/get_test_details
+   calls/get_test_detail
    calls/list_alerts
    calls/list_allergies
    calls/list_current_health_issues
