@@ -15,4 +15,5 @@ EnabledFeatures    Array of String   *TODO: Write description*
 **Used in models**
 
 * :doc:`../models/authenticate_response`
+* :doc:`../models/patient_access`
 
