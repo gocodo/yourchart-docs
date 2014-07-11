@@ -3,9 +3,17 @@ Node.js
 
 The |project| is available as a Node.js npm package. For access to the source, contact `Michael Wasser <http://about.me/mwasser>`_.
 
-Once installed, the package can be include via ``var YourChartClient = require('yourchart')``
+Once installed, the package can be include via
 
-To create a client, use ``var client = new YourChartClient('<Epic MyChart Username>', '<Epic MyChart Password>', '<Epic-specified Organization ID>')``
+.. code-block:: javascript
+
+  var YourChartClient = require('yourchart')
+
+To create a client, use
+
+.. code-block:: javascript
+
+  var client = new YourChartClient('<Epic MyChart Username>', '<Epic MyChart Password>', '<Epic-specified Organization ID>')
 
 To get an organizations id, you can programatically access an array of all known sites using ``YourChartClient.sites``. Each site will have an ``orgId`` which tells the client where to fetch health records from. Each object in the sites array looks like the following example:
 
