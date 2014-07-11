@@ -177,5 +177,6 @@ pseudoxml:
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
 watch:
+	make html
 	@echo "Watching..."
 	fswatch ./ -E --exclude="(_build/*|4913)" -r | xargs -n1 -I{} make html
