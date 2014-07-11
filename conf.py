@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Gocodo Epic MyChart Client documentation build configuration file, created by
+# Gocodo YourChart Client documentation build configuration file, created by
 # sphinx-quickstart on Wed Jun 18 17:36:26 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -43,8 +43,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Gocodo Epic MyChart Client'
-copyright = u'2014, Michael M. Wasser'
+project = u'Gocodo YourChart Client'
+rst_epilog = '.. |project| replace:: %s' % project
+copyright = u'2014, Gocodo'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -176,7 +177,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'GocodoEpicMyChartClientdoc'
+htmlhelp_basename = 'GocodoYourChartClientdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -196,8 +197,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'GocodoEpicMyChartClient.tex', u'Gocodo Epic MyChart Client Documentation',
-   u'Michael M. Wasser', 'manual'),
+  ('index', 'GocodoYourChartClient.tex', u'Gocodo YourChart Client Documentation',
+   u'Gocodo', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -226,8 +227,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'gocodoepicmychartclient', u'Gocodo Epic MyChart Client Documentation',
-     [u'Michael M. Wasser'], 1)
+    ('index', 'gocodoyourchartclient', u'Gocodo YourChart Client Documentation',
+     [u'Gocodo'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -240,8 +241,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'GocodoEpicMyChartClient', u'Gocodo Epic MyChart Client Documentation',
-   u'Michael M. Wasser', 'GocodoEpicMyChartClient', 'One line description of project.',
+  ('index', 'GocodoYourChartClient', u'Gocodo YourChart Client Documentation',
+   u'Gocodo', 'GocodoYourChartClient', 'One line description of project.',
    'Miscellaneous'),
 ]
 
