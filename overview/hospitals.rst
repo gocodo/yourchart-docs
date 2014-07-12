@@ -2,7 +2,7 @@ Hospitals
 =========
 
 The following is a list of health system's and hospitals that are currently supported by the
-Gocodo Epic Client. The main requirement for being supported is that the health system/ hospital
+|project|. The main requirement for being supported is that the health system/ hospital
 has MyChart Mobile enabled for their deployment of Epic MyChart.
 
 +-------+--------------------------------------------------+---------------------------------+

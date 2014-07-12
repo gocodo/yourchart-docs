@@ -5,8 +5,8 @@ To make it easier for software developers to get quick and secure access to pati
 for use by Gocodo under an MIT license. Please contact `Michael Wasser <http://about.me/mwasser>`_ at Gocodo for access to the
 API clients. Currently, the API client is written in the following languages:
 
-  * javascript for both Node.js and browser based usage
-  * .net
+  * Javascript with Node.js
+  * .Net
   * Objective-C
 
 If you would like support for additional languages, please contact `Michael Wasser <http://about.me/mwasser>`_ at Gocodo.

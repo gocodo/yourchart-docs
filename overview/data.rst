@@ -1,7 +1,7 @@
 Data
 ====
 
-A wide array of different patient data-types are available through the use of the |project|. For example:
+A wide array of different types of patient data are available through the use of the |project|. For example:
 
 * Immunization history
 * Allergies

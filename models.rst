@@ -1,7 +1,7 @@
 Models
 ======
 
-TODO: Write this
+Each model bellow is used in one or more :doc:`calls <calls>`. For more information on how to fetch the models using a specific client, see the client specific documentation (e.g. the :doc:`node.js client <getting_started/nodejs>`).
 
 .. toctree::
    :maxdepth: 2
