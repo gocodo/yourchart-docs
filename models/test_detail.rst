@@ -21,7 +21,7 @@ HasScans           Boolean                                          *TODO: Write
 Impression         String                                           *TODO: Write description*   
 IsECG              Boolean                                          *TODO: Write description*   
 Narrative          String                                           *TODO: Write description*   
-Recipients         Array of :doc:`../models/wp_message_recipient`   *TODO: Write description*   
+Recipients         Array of :doc:`../models/wp_message_recipient`   Details of the provider who received the test result
 ResultNote         String                                           *TODO: Write description*   
 ShowFlag           Boolean                                          *TODO: Write description*   
 Transcriptions     String                                           *TODO: Write description*   
