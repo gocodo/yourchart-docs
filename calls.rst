@@ -8,10 +8,12 @@ on creating a client and using the given calls, see the client specific document
    :maxdepth: 2
 
    calls/authenticate
+   calls/accept_terms_conditions
    calls/get_account_details
    calls/get_bills_and_statements
    calls/get_encounter
    calls/get_message_detail
+   calls/get_terms_conditions
    calls/get_test_detail
    calls/list_alerts
    calls/list_allergies
